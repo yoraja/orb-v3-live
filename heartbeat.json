@@ -1,10 +1,10 @@
 {
  "track": "live",
- "kind": "eod",
+ "kind": "scan",
  "rc": 0,
  "keys": "ok",
- "or": "n/a",
- "ts_utc": "2026-11-10T20:55:13Z",
- "ts_pt": "2026-11-10 12:55 PT",
+ "or": "n/a(pre-7:30)",
+ "ts_utc": "2026-11-11T14:00:21Z",
+ "ts_pt": "2026-11-11 06:00 PT",
  "host": "trader-box"
 }
